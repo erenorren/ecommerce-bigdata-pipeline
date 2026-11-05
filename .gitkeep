@@ -1,0 +1,4 @@
+type nul > data\raw\.gitkeep
+type nul > data\staging\.gitkeep
+type nul > data\curated\.gitkeep
+type nul > logs\.gitkeep

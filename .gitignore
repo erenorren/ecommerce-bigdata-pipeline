@@ -1,0 +1,21 @@
+# Environment variables (Sangat Rahasia!)
+.env
+
+# Data files (Ukuran besar & data mentah)
+data/raw/*
+data/staging/*
+data/curated/*
+!data/raw/.gitkeep
+!data/staging/.gitkeep
+!data/curated/.gitkeep
+
+# Logs & Airflow runtime
+logs/*
+!logs/.gitkeep
+plugins/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
