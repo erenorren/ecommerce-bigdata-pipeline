@@ -1,21 +1,22 @@
-# Environment variables (Sangat Rahasia!)
-.env
+# Data & Large Files
+data/
+data/raw/
+data/curated/
+data/gold/
 
-# Data files (Ukuran besar & data mentah)
-data/raw/*
-data/staging/*
-data/curated/*
-!data/raw/.gitkeep
-!data/staging/.gitkeep
-!data/curated/.gitkeep
+# Airflow Logs & Internal DB
+logs/
+airflow-webserver.pid
+*.db
+*.sqlite
 
-# Logs & Airflow runtime
-logs/*
-!logs/.gitkeep
-plugins/
-*.log
-
-# Python cache
+# Python & PySpark Caches
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.ivy2/
 .pytest_cache/
+
+# Environment Variables & Sensitive Files
+.env
+*.env
