@@ -1,0 +1,35 @@
+provinsi,pesanan_wilayah,gagal_kirim_wilayah,kurir_dominan,pesanan_dominan,tingkat_gagal_dominan,rata_ongkir_dominan,status,kurir_rekomendasi,pesanan_rekomendasi,gagal_rekomendasi,tingkat_gagal_rekomendasi,tingkat_halus_rekomendasi,rata_ongkir_rekomendasi,sama_dengan_dominan
+JAWA BARAT,6376,37,SPX Express,6050,0.0061,11317,Rekomendasi,JNE,228.0,0.0,0.0,0.0001,20370.0,False
+BANTEN,3447,23,SPX Express,3250,0.0071,12552,Rekomendasi,GoSend,46.0,0.0,0.0,0.0,29043.0,False
+DKI JAKARTA,2743,14,SPX Express,2560,0.0055,11928,Rekomendasi,JNE,107.0,0.0,0.0,0.0001,15519.0,False
+JAWA TIMUR,1529,18,SPX Express,1450,0.0117,16686,Rekomendasi,SPX Express,1450.0,17.0,0.0117,0.0117,16686.0,True
+JAWA TENGAH,1423,16,SPX Express,1308,0.0122,16455,Rekomendasi,JNE,53.0,0.0,0.0,0.0005,34534.0,False
+KALIMANTAN TIMUR,120,4,SPX Express,84,0.0238,46792,Rekomendasi,SPX Express,84.0,2.0,0.0238,0.0262,46792.0,True
+SUMATERA SELATAN,609,13,SPX Express,565,0.023,24869,Data belum memadai,,,,,,,
+LAMPUNG,473,10,SPX Express,448,0.0223,24749,Data belum memadai,,,,,,,
+JAMBI,328,13,SPX Express,307,0.0358,31249,Data belum memadai,,,,,,,
+RIAU,313,11,SPX Express,283,0.0353,29949,Data belum memadai,,,,,,,
+SUMATERA UTARA,288,13,SPX Express,264,0.0379,33793,Data belum memadai,,,,,,,
+SUMATERA BARAT,263,14,SPX Express,253,0.0553,28022,Data belum memadai,,,,,,,
+SULAWESI SELATAN,244,11,SPX Express,228,0.0439,44869,Data belum memadai,,,,,,,
+DI YOGYAKARTA,236,2,SPX Express,220,0.0091,15584,Data belum memadai,,,,,,,
+KALIMANTAN BARAT,199,9,SPX Express,173,0.0462,38219,Data belum memadai,,,,,,,
+BALI,188,6,SPX Express,158,0.0253,35438,Data belum memadai,,,,,,,
+KALIMANTAN SELATAN,137,6,SPX Express,128,0.0391,38135,Data belum memadai,,,,,,,
+BENGKULU,135,2,SPX Express,125,0.016,28396,Data belum memadai,,,,,,,
+KALIMANTAN TENGAH,125,8,SPX Express,98,0.0714,46806,Data belum memadai,,,,,,,
+NANGGROE ACEH DARUSSALAM (NAD),123,8,SPX Express,118,0.0678,33264,Data belum memadai,,,,,,,
+BANGKA BELITUNG,121,2,SPX Express,115,0.0174,32450,Data belum memadai,,,,,,,
+NUSA TENGGARA BARAT (NTB),97,6,SPX Express,89,0.0674,51255,Data belum memadai,,,,,,,
+KEPULAUAN RIAU,67,4,SPX Express,62,0.0645,42679,Data belum memadai,,,,,,,
+SULAWESI TENGAH,51,11,SPX Express,36,0.2222,61494,Data belum memadai,,,,,,,
+GORONTALO,49,5,SPX Express,45,0.0889,40704,Data belum memadai,,,,,,,
+SULAWESI UTARA,39,4,SPX Express,27,0.0741,77378,Data belum memadai,,,,,,,
+SULAWESI TENGGARA,29,2,SPX Express,25,0.08,91776,Data belum memadai,,,,,,,
+NUSA TENGGARA TIMUR (NTT),23,2,SPX Express,22,0.0909,96741,Data belum memadai,,,,,,,
+MALUKU,19,2,SPX Express,16,0.125,78644,Data belum memadai,,,,,,,
+SULAWESI BARAT,16,0,SPX Express,11,0.0,59164,Data belum memadai,,,,,,,
+KALIMANTAN UTARA,12,0,SPX Express,11,0.0,50273,Data belum memadai,,,,,,,
+MALUKU UTARA,9,1,SPX Express,7,0.1429,62543,Data belum memadai,,,,,,,
+PAPUA,1,0,SPX Express,1,0.0,115000,Data belum memadai,,,,,,,
+PAPUA BARAT,1,0,SPX Express,1,0.0,123000,Data belum memadai,,,,,,,
