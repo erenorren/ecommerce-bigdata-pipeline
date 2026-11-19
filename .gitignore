@@ -20,3 +20,10 @@ __pycache__/
 # Environment Variables & Sensitive Files
 .env
 *.env
+# Analisis: data besar dan file sementara
+*.parquet
+analysis/**/transaksi_gabungan.csv
+analysis/**/fact_orders.csv
+datanew/
+.ipynb_checkpoints/
+.vscode/
